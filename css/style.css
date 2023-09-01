@@ -174,11 +174,11 @@ p1 {
 
 
 p {
-    color: var(--text-white);
-    font-size: 16px;
-    line-height: 28px;
-    letter-spacing: 1px;
-    font-weight: 440px;
+    color: #f603b1 !important;
+    font-size: 16px !important;
+    line-height: 28px !important;
+    letter-spacing: 1px !important; 
+    font-weight: 600 !important;
 }
 
 .subtitle {
